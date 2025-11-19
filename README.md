@@ -1,0 +1,102 @@
+<div align="center">
+
+# 👋 안녕하세요, 한예린입니다!
+
+**프론트엔드 개발자** | 사용자 경험을 중시하는 개발자
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yyyerin.co.kr-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.yyyerin.co.kr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hyr0208)
+
+</div>
+
+## 🛠️ 기술 스택
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+## 💼 경력
+
+### (주)엔투소프트 | 프론트엔드 웹 개발
+
+**2021.11 - 재직중**
+
+- React, TypeScript를 활용한 랜딩페이지 개발
+- React, Next.js를 활용한 저축은행 디지털 전환 홈페이지 유지보수
+- React, Electron을 활용한 저축은행 차세대 시스템 개발 및 유지보수
+- 모바일 웹 대출시스템 개발
+
+### 하나컴퓨터학원 | 컴퓨터자격증 강사
+
+**2019.01 - 2021.09**
+
+- OA, 전산회계, 디자인 관련 자격증 강의
+- Photoshop, Illustrator를 활용한 홍보 마케팅 및 광고 디자인
+
+## 📂 주요 프로젝트
+
+### 🚀 [포트폴리오 웹사이트](https://portfolio.yyyerin.co.kr)
+
+React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
+
+- 반응형 디자인
+- 스크롤 네비게이션
+- 프로젝트 필터링 기능
+
+### 🌐 [라이더링크 랜딩페이지](https://riderlink.co.kr)
+
+팀 프로젝트로 제작한 랜딩페이지
+
+- 반응형 웹 디자인
+- SEO 최적화
+- 빠른 로딩 속도
+
+### 💡 [오너마인드 랜딩페이지](https://ownermind.co.kr)
+
+커뮤니티 중심의 랜딩페이지
+
+- 사용자 경험 중심 설계
+- 소셜 미디어 연동
+
+## 📊 GitHub 통계
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyr0208&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
+</div>
+
+## 💬 한마디
+
+> 포기하지 않고 책임감 있게 일하는 프론트엔드 개발자입니다.  
+> 사용자의 관점에서 생각하며 사용하기 좋은 서비스를 만들고 싶습니다.
+
+## 📧 연락처
+
+- 📧 Email: [이메일 주소를 입력하세요]
+- 💼 Portfolio: [portfolio.yyyerin.co.kr](https://portfolio.yyyerin.co.kr)
+- 🐙 GitHub: [@hyr0208](https://github.com/hyr0208)
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hyr0208.hyr0208&left_color=gray&right_color=blue)
+
+Made with ❤️ by yyyerin
+
+</div>
+
