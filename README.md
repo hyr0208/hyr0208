@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 한예린입니다!
+# 🌱 안녕하세요, yyyerin 입니다!
 
 **프론트엔드 개발자** | 사용자 경험을 중시하는 개발자
 
@@ -25,24 +25,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-## 💼 경력
-
-### (주)엔투소프트 | 프론트엔드 웹 개발
-
-**2021.11 - 재직중**
-
-- React, TypeScript를 활용한 랜딩페이지 개발
-- React, Next.js를 활용한 저축은행 디지털 전환 홈페이지 유지보수
-- React, Electron을 활용한 저축은행 차세대 시스템 개발 및 유지보수
-- 모바일 웹 대출시스템 개발
-
-### 하나컴퓨터학원 | 컴퓨터자격증 강사
-
-**2019.01 - 2021.09**
-
-- OA, 전산회계, 디자인 관련 자격증 강의
-- Photoshop, Illustrator를 활용한 홍보 마케팅 및 광고 디자인
 
 ## 📂 주요 프로젝트
 
@@ -73,7 +55,7 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyr0208&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
@@ -86,7 +68,7 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 
 ## 📧 연락처
 
-- 📧 Email: [이메일 주소를 입력하세요]
+- 📧 Email: [hhyr0208@gmail.com]
 - 💼 Portfolio: [portfolio.yyyerin.co.kr](https://portfolio.yyyerin.co.kr)
 - 🐙 GitHub: [@hyr0208](https://github.com/hyr0208)
 
@@ -99,4 +81,3 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 Made with ❤️ by yyyerin
 
 </div>
-
