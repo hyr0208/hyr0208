@@ -25,6 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Zeppelin](https://img.shields.io/badge/Zeppelin-0097FF?style=for-the-badge&logo=apache-zeppelin&logoColor=white)
 
 ## 📂 주요 프로젝트
 
@@ -68,7 +69,7 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 
 ## 📧 연락처
 
-- 📧 Email: [hhyr0208@gmail.com]
+- 📧 Email: hhyr0208@gmail.com
 - 💼 Portfolio: [portfolio.yyyerin.co.kr](https://portfolio.yyyerin.co.kr)
 - 🐙 GitHub: [@hyr0208](https://github.com/hyr0208)
 
