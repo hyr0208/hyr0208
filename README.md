@@ -19,17 +19,19 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Zeppelin](https://img.shields.io/badge/Zeppelin-0097FF?style=for-the-badge&logo=apache-zeppelin&logoColor=white)
 
 ## 📂 주요 프로젝트
 
-### 🚀 [포트폴리오 웹사이트](https://portfolio.yyyerin.co.kr)
+### 👩🏻‍💻 [포트폴리오 웹사이트](https://portfolio.yyyerin.co.kr)
 
 React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 
@@ -37,7 +39,7 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 - 스크롤 네비게이션
 - 프로젝트 필터링 기능
 
-### 🌐 [라이더링크 랜딩페이지](https://riderlink.co.kr)
+### 🏍️ [라이더링크 랜딩페이지](https://riderlink.co.kr)
 
 팀 프로젝트로 제작한 랜딩페이지
 
@@ -45,12 +47,13 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 - SEO 최적화
 - 빠른 로딩 속도
 
-### 💡 [오너마인드 랜딩페이지](https://ownermind.co.kr)
+### 🪪 [AllCert - 자격증 포털](https://allcert.yyyerin.co.kr)
 
-커뮤니티 중심의 랜딩페이지
+다양한 자격증 정보를 한눈에 확인하는 포털 사이트
 
-- 사용자 경험 중심 설계
-- 소셜 미디어 연동
+- 실시간 검색 및 카테고리 필터링
+- 다양한 분야 자격증 정보 제공 (IT, 어학, 전문자격 등)
+- 공식 사이트 바로가기 연결
 
 ### 🎮 soolgame-lending 🚧 작업 중
 
@@ -62,7 +65,7 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 
 <div align="center">
   
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyr0208&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
