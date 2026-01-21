@@ -27,7 +27,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Zeppelin](https://img.shields.io/badge/Zeppelin-0097FF?style=for-the-badge&logo=apache-zeppelin&logoColor=white)
+![Zepelin](https://img.shields.io/badge/Zepelin-0097FF?style=for-the-badge&logo=apache-zeppelin&logoColor=white)
 
 ## 📂 주요 프로젝트
 
