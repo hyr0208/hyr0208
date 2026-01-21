@@ -65,7 +65,7 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyr0208&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
