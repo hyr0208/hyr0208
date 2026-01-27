@@ -64,7 +64,7 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 - 즐겨찾기 기능으로 관심 공고 저장 및 관리
 - Firebase Auth를 통한 구글 소셜 로그인
 
-### 🍽️ [LunchPing - 오늘 점심 뭐먹지?](https://github.com/hyr0208/LunchPing)
+### 🍽️ [LunchPing - 오늘 점심 뭐먹지?](https://lunchping.yyyerin.co.kr)
 
 내 주변 맛집 추천 및 점심 메뉴 결정 도우미 서비스
 
