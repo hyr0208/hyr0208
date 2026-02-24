@@ -73,7 +73,16 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 - 반응형 웹 디자인 (Desktop/Mobile)
 - Jenkins/Docker 기반 CI/CD 구축
 
-### �🎮 soolgame-lending 🚧 작업 중
+### 🎬 [bomPick - OTT 콘텐츠 메타추천 서비스](https://bompick.yyyerin.co.kr)
+
+내가 구독 중인 OTT 서비스를 기반으로 한 맞춤형 콘텐츠 추천 서비스
+
+- OTT 통합 필터링 (넷플릭스, 디즈니+, 티빙 등)
+- 스마트 검색 및 상세 정보 확인
+- 결정 장애 해결을 위한 '랜덤 픽' 기능
+- 다크 모드 지원
+
+### 🎮 soolgame-lending 🚧 작업 중
 
 게임 대여 서비스 프로젝트
 
@@ -83,9 +92,9 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 
 <div align="center">
   
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyr0208&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyr0208&layout=compact&theme=transparent)
 
 </div>
 
