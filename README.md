@@ -82,6 +82,15 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 - 결정 장애 해결을 위한 '랜덤 픽' 기능
 - 다크 모드 지원
 
+### ☕️ [Lotto - 커피 내기 게임](https://lotto.yyyerin.co.kr/)
+
+지뢰찾기에서 영감받은 실시간 멀티플레이어 팀 내기 게임
+
+- 링크 공유로 여러 사람이 각자 기기에서 함께 플레이
+- 방 생성 및 초대 링크 복사 기능
+- 칸 수(9/12/16/20)와 커피 개수(1~3) 커스터마이징
+- Firebase Realtime Database 기반 실시간 멀티플레이어
+
 ### 🎮 soolgame-lending 🚧 작업 중
 
 게임 대여 서비스 프로젝트
