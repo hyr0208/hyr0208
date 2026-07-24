@@ -19,6 +19,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Tools & Others
@@ -29,7 +30,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Zepelin](https://img.shields.io/badge/Zepelin-0097FF?style=for-the-badge&logo=apache-zeppelin&logoColor=white)
 
-## 📂 주요 프로젝트
+<!-- ## 📂 주요 프로젝트
 
 ### 👩🏻‍💻 [포트폴리오 웹사이트](https://portfolio.yyyerin.co.kr)
 
@@ -95,7 +96,7 @@ React + TypeScript + Tailwind CSS로 제작한 개인 포트폴리오 사이트
 
 게임 대여 서비스 프로젝트
 
-- 현재 개발 진행 중
+- 현재 개발 진행 중 -->
 
 ## 📊 GitHub 통계
 
