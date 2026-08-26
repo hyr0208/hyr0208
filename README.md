@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="./assets/yyyerin-dev-banner.svg" alt="Developer terminal banner for yyyerin" width="100%" />
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there%2C%20I%27m%20yyyerin!&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer&descSize=18&descAlignY=65"
+    width="100%"
+  />
+</div>
 
 <br />
 <br />
