@@ -54,15 +54,17 @@ const yyyerin = {
 
 ## Selected projects
 
-| Project | Description |
-| :--- | :--- |
-| [**Portfolio**](https://portfolio.yyyerin.co.kr) | React, TypeScript, Tailwind CSS로 제작한 개인 포트폴리오 |
-| [**RiderLink**](https://riderlink.co.kr) | 반응형 웹 디자인과 SEO를 고려한 랜딩페이지 |
-| [**AllCert**](https://allcert.yyyerin.co.kr) | 자격증 검색·필터링과 공식 사이트 연결을 제공하는 자격증 포털 |
-| [**지원나우**](https://jiwonnow.yyyerin.co.kr) | 지역·업종 기반 정부지원사업 추천 웹 애플리케이션 |
-| [**LunchPing**](https://lunchping.yyyerin.co.kr) | 위치 기반 맛집 추천 및 점심 메뉴 결정 도우미 |
-| [**bomPick**](https://bompick.yyyerin.co.kr) | 구독 중인 OTT를 기반으로 콘텐츠를 추천하는 서비스 |
-| [**Lotto**](https://lotto.yyyerin.co.kr/) | Firebase Realtime Database 기반 실시간 멀티플레이어 커피 내기 게임 |
+| Project                                                                         | Description                                                                              |
+| :------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------- |
+| [**housing-tracker-mobile**](https://github.com/hyr0208/housing-tracker-mobile) | 공공임대·행복주택 예비입주자 순번과 신청 현황을 관리하고, 입주 준비를 도와주는 모바일 앱 |
+| [**invitation-portfolio**](https://invite.yyyerin.co.kr)                        | 모바일 청첩장 템플릿을 모아 볼 수 있는 서비스                                            |
+| [**portfolio-2026**](https://portfolio2026.yyyerin.co.kr)                       | 포트폴리오 2026 버전 ✨                                                                  |
+| [**Portfolio**](https://portfolio.yyyerin.co.kr)                                | React, TypeScript, Tailwind CSS로 제작한 개인 포트폴리오                                 |
+| [**AllCert**](https://allcert.yyyerin.co.kr)                                    | 자격증 검색·필터링과 공식 사이트 연결을 제공하는 자격증 포털                             |
+| [**지원나우**](https://jiwonnow.yyyerin.co.kr)                                  | 지역·업종 기반 정부지원사업 추천 웹 애플리케이션                                         |
+| [**LunchPing**](https://lunchping.yyyerin.co.kr)                                | 위치 기반 맛집 추천 및 점심 메뉴 결정 도우미                                             |
+| [**bomPick**](https://bompick.yyyerin.co.kr)                                    | 구독 중인 OTT를 기반으로 콘텐츠를 추천하는 서비스                                        |
+| [**Lotto**](https://lotto.yyyerin.co.kr/)                                       | Firebase Realtime Database 기반 실시간 멀티플레이어 커피 내기 게임                       |
 
 <details>
 <summary>프로젝트에서 다룬 주요 기능 보기</summary>
@@ -82,18 +84,18 @@ const yyyerin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hyr0208&show_icons=true&hide_border=true&theme=transparent&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyr0208&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyr0208&theme=github_dark" height="165" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyr0208&theme=github_dark" height="165" alt="Most used languages" />
 
 </div>
 
 ## Contact
 
-| Channel | Link |
-| :--- | :--- |
-| Email | [hhyr0208@gmail.com](mailto:hhyr0208@gmail.com) |
-| Portfolio | [portfolio.yyyerin.co.kr](https://portfolio.yyyerin.co.kr) |
-| GitHub | [@hyr0208](https://github.com/hyr0208) |
+| Channel      | Link                                                       |
+| :----------- | :--------------------------------------------------------- |
+| 📧 Email     | [hhyr0208@gmail.com](mailto:hhyr0208@gmail.com)            |
+| 💼 Portfolio | [portfolio.yyyerin.co.kr](https://portfolio.yyyerin.co.kr) |
+| 🐙 GitHub    | [@hyr0208](https://github.com/hyr0208)                     |
 
 <br />
 
@@ -102,5 +104,7 @@ const yyyerin = {
 꾸준히 배우고, 책임감 있게 만들겠습니다.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hyr0208.hyr0208&left_color=gray&right_color=blue)
+
+Made with ❤️ by yyyerin
 
 </div>
