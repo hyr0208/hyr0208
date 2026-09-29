@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yyyerin.co.kr-111827?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.yyyerin.co.kr)
 [![GitHub](https://img.shields.io/badge/GitHub-hyr0208-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hyr0208)
-[![Email](https://img.shields.io/badge/Email-hhyr0208%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhyr0208@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yyyerin.app%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yyyerin.app@gmail.com)
 
 </div>
 
