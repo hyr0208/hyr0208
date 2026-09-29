@@ -98,7 +98,7 @@ const yyyerin = {
 
 | Channel      | Link                                                       |
 | :----------- | :--------------------------------------------------------- |
-| 📧 Email     | [hhyr0208@gmail.com](mailto:hhyr0208@gmail.com)            |
+| 📧 Email     | [yyerin.app@gmail.com](mailto:yyyerin.app@gmail.com)       |
 | 💼 Portfolio | [portfolio.yyyerin.co.kr](https://portfolio.yyyerin.co.kr) |
 | 🐙 GitHub    | [@hyr0208](https://github.com/hyr0208)                     |
 
